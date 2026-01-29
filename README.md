@@ -93,7 +93,7 @@
 
 ### 下载安装
 
-从 [Releases](https://github.com/dpyyds/QuarkManager/releases) 页面下载最新版本的 `quarkpan.exe`，双击运行即可。
+从 [Releases](https://github.com/dpyyds/QuarkManager/releases) 页面下载最新版本的 `QuarkManager.exe`，双击运行即可。
 
 ### 登录账号
 
